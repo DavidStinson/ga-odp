@@ -6,6 +6,8 @@
   "engines": {
     "vscode": "^1.82.0"
   },
+  "repository": "github:DavidStinson/ga-odp",
+  "license":"MIT",
   "categories": [
     "Themes"
   ],
