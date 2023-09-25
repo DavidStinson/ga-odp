@@ -1,0 +1,21 @@
+{
+  "name": "ga-odp",
+  "displayName": "ga-odp",
+  "description": "The theme used for assets in GA's modular curriculum.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GA One Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GA One Dark Pro-color-theme.json"
+      }
+    ]
+  }
+}
