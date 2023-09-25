@@ -2,10 +2,12 @@
   "name": "ga-odp",
   "displayName": "ga-odp",
   "description": "The theme used for assets in GA's modular curriculum.",
-  "version": "0.0.1",
+  "publisher": "david-stinson",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.82.0"
   },
+  "homepage": "https://github.com/DavidStinson/ga-odp",
   "repository": "github:DavidStinson/ga-odp",
   "license":"MIT",
   "categories": [
